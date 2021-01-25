@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes
 
+## 0.3.7
+
+### Patch Changes
+
+- a6e3b9596: Improve error reporting for plugin misconfiguration.
+
 ## 0.3.6
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-cost-insights
 
+## 0.5.8
+
+### Patch Changes
+
+- 8b7ef9f8b: Allow expand functionality to top panel product chart tooltip.
+
 ## 0.5.7
 
 ### Patch Changes

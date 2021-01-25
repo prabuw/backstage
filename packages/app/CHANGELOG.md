@@ -1,5 +1,17 @@
 # example-app
 
+## 0.2.13
+
+### Patch Changes
+
+- Updated dependencies [12a56cdfe]
+- Updated dependencies [8b7ef9f8b]
+- Updated dependencies [ef7957be4]
+- Updated dependencies [a6e3b9596]
+  - @backstage/cli@0.5.0
+  - @backstage/plugin-cost-insights@0.5.8
+  - @backstage/plugin-kubernetes@0.3.7
+
 ## 0.2.12
 
 ### Patch Changes

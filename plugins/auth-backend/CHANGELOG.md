@@ -1,5 +1,12 @@
 # @backstage/plugin-auth-backend
 
+## 0.2.12
+
+### Patch Changes
+
+- 39b05b9ae: Use .text instead of .json for ALB key response
+  - @backstage/backend-common@0.5.1
+
 ## 0.2.11
 
 ### Patch Changes
